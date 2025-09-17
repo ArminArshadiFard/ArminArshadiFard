@@ -1,6 +1,10 @@
 # 💫 About Me:
-AI & Machine Learning Engineer and Web Developer specializing in deep learning, computer vision, and backend development with Django. Based in Iran, Tabriz.<br><br>My Recent Projects<br><br>    AI Image Recognition: Real-time object detection using PyTorch and OpenCV.<br>    Sentiment Analysis API: RESTful API for text sentiment analysis using NLP.<br>    Book Commerce Platform: Scalable e-commerce platform built with Django and Tailwind CSS.<br>
+AI & Machine Learning Engineer and Web Developer based in Tabriz, Iran. Expert in deep learning, computer vision, and backend development with Django, delivering innovative and scalable solutions.
 
+## Recent Projects
+- **AI Image Recognition**: Real-time object detection using PyTorch and OpenCV.
+- **Sentiment Analysis API**: RESTful API for text sentiment analysis with NLP.
+- **Book Commerce Platform**: Scalable e-commerce platform built with Django, Tailwind CSS, and SQLite.
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:armin1381second@gmail.com)
