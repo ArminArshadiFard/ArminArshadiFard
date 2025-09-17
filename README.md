@@ -8,7 +8,15 @@ An AI & Machine Learning Engineer and Web Developer specializing in deep learnin
 - **NOTE** : i would like to hear from you! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 [- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
- 
+ AI Image Recognition: Real-time object detection using PyTorch and OpenCV.
+
+
+
+Book Commerce Platform: Scalable e-commerce platform built with Django and Tailwind CSS.
+
+
+
+Sentiment Analysis API: RESTful API for text sentiment analysis using NLP.
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
