@@ -17,7 +17,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armin2u&layout=compact&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminArshadiFard&layout=compact&theme=radial)
 <p>
   <a href="https://count.getloli.com/@armin?name=armin&theme=booru-yuyuyui&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto"><img src="https://count.getloli.com/get/@:armin&theme=booru-yuyuyui"></a>
 </p>
