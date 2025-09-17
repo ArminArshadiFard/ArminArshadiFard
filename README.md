@@ -1,11 +1,9 @@
 # Hi... I'm Armin  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-**AI & Machine Learning Engineer** and **Web Developer** specializing in **deep learning**, **computer vision**, and **backend development** with Django. Based in Nairobi, Kenya. 
+**AI & Machine Learning Engineer** and **Web Developer** specializing in **deep learning**, **computer vision**, and **backend development** with Django. Based in Iran, Tabriz. 
 - Open to project collaborations
-- You can reach me through: <a href="armin1381second@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/> </a>  <a href="[#](https://wa.me/09367848198?text=Hi%20there%20Im%20interested%20in%20you)" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
-<img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&#x26;logo=telegram&#x26;logoColor=white" height="30" align="center"><a href="- https://t.me/ArminAFard">
-</a>
-- 
+- You can reach me through: <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" height="30" align="center">  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&#x26;logo=whatsapp&#x26;logoColor=white" height="30" align="center">  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&#x26;logo=telegram&#x26;logoColor=white" height="30" align="center">
+  
 - **NOTE**: I would like to hear from you! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 [- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
